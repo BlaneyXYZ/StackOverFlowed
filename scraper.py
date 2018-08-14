@@ -1,5 +1,3 @@
-import csv
-
 import requests
 from bs4 import BeautifulSoup
 from time import perf_counter as pc
